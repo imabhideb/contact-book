@@ -98,7 +98,7 @@ const ContactBook = () => {
 
                         {/* phone */}
                         <label className="ml-1 text-[1.1rem]" htmlFor="">
-                            Password
+                            Phone
                         </label>
                         <div className="flex relative w-[100%] h-[50%] border-b-[2px] border-solid border-login mt-[6px] mb-[30px] mx-0 text-login gap-2">
                             <input
